@@ -1,3 +1,2 @@
-# Market-Simulation
+# A calculus (+) library for python
 
-- Simulate the growth and stats of an imaginary market.
